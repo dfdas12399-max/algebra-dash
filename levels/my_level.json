@@ -1,0 +1,815 @@
+{
+  "name": "my_level",
+  "objects": [
+    {
+      "type": "spike",
+      "gx": 2,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 2,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 8,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 9,
+      "gy": 9,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 10,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 3,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 4,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 5,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 6,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 7,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 8,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 9,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "port_mn",
+      "gx": 11,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "port_mn",
+      "gx": 11,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 11,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 11,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 12,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 13,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 14,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 15,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 16,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 17,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 1,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 0,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 0,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 1,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 0,
+      "gy": 6,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 1,
+      "gy": 6,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 2,
+      "gy": 6,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 0,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 1,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 2,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 3,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 4,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 5,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 6,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 7,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 7,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 8,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 8,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 9,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 9,
+      "gy": 14,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 10,
+      "gy": 14,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 11,
+      "gy": 14,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 12,
+      "gy": 14,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 12,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 13,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 14,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 14,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 15,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 16,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 16,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 17,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 10,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 12,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 13,
+      "gy": 9,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 14,
+      "gy": 9,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 15,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 16,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 17,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 18,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 18,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 19,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 20,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 21,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 22,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 23,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "spike",
+      "gx": 24,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 19,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 20,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 21,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 22,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 23,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 24,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 17,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 18,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 18,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 19,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 20,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 21,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 22,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 23,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 24,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "spd_3",
+      "gx": 19,
+      "gy": 9,
+      "group_id": 0
+    },
+    {
+      "type": "spd_3",
+      "gx": 19,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "spd_3",
+      "gx": 19,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 3,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 4,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 5,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 6,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "spike_d",
+      "gx": 7,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 3,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 4,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 5,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 6,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 7,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 8,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 9,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 9,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 10,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 10,
+      "gy": 9,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 11,
+      "gy": 9,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 12,
+      "gy": 9,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 12,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 13,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 14,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 14,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 15,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 16,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 17,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 18,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 19,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 20,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 21,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 22,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 23,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "block",
+      "gx": 24,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 0,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 1,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 2,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 3,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 4,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 5,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 6,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 7,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 8,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 9,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 10,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 11,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 12,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 13,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 14,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 15,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 16,
+      "group_id": 0
+    },
+    {
+      "type": "endwall",
+      "gx": 26,
+      "gy": 17,
+      "group_id": 0
+    }
+  ]
+}
